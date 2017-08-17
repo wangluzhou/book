@@ -1,3 +1,14 @@
 {
-    "gitbook": ">=2.0.0"
+    "gitbook": ">=2.0.0",
+    "title": "测试版本",
+    "plugins": [
+      "-search",
+      "search-pro"
+    ],
+    "pluginsConfig": {
+      "search-pro": {
+        "cutWordLib": "nodejieba",
+        "defineWord" : ["Gitbook Use"]
+      }
+    }
 }
