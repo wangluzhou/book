@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This is a book powered by [GitBook](https://github.com/GitbookIO/gitbook).
 =======
 # My Awesome Book
