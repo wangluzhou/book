@@ -7,6 +7,7 @@
 | --- | --- |
 | 技术分析因子 | 0.6 |
 
+
 ``` flow
 st=>start: Start|past:>http://www.google.com[blank]
 e=>end: End:>http://www.google.com
