@@ -11,5 +11,8 @@
         "cutWordLib": "nodejieba",
         "defineWord" : ["Gitbook Use"]
       }
+      "atoc": {
+        "addClass": true,
+        "className": "atoc"
     }
 }
