@@ -20,9 +20,4 @@
     Bob-->John: Jolly good!
 ```
 
-```graphTD
-        A-->B;
-        A-->C;
-        B-->D;
-        C-->D;
-``
+
