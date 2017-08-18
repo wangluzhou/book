@@ -4,7 +4,7 @@
 * [第一章](chapter1/README.md)
   * [Section1.1](chapter1/section1.1.md)
   * [Section1.2](chapter1/section1.2.md)
-  * [多因子模型](duo-yin-zi-mo-xing.md)
+  * [多因子模型](chapter1/duo-yin-zi-mo-xing.md)
 * [第二章](chapter2/README.md)
 
 
