@@ -4,7 +4,8 @@
   "plugins": [
     "-search",
     "search-pro",
-    "atoc"
+    "atoc",
+    "new-flowchart"
   ],
   "pluginsConfig": {
     "search-pro": {
