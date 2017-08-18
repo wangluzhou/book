@@ -3,7 +3,8 @@
     "title": "测试版本",
     "plugins": [
       "-search",
-      "search-pro"
+      "search-pro",
+      "atoc"
     ],
     "pluginsConfig": {
       "search-pro": {
