@@ -5,7 +5,8 @@
     "-search",
     "search-pro",
     "atoc",
-    "new-flowchart"
+    "new-flowchart",
+    "mermaid-atom-mden"
   ],
   "pluginsConfig": {
     "search-pro": {
